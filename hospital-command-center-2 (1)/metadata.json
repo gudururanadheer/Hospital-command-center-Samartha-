@@ -1,0 +1,5 @@
+{
+  "name": "Hospital Command Center-2",
+  "description": "An intelligent web application to manage hospital sections, staff, and patient admissions. It uses AI to optimize resource allocation, assign patients to appropriate care units and staff, and manage patient flow to prevent bottlenecks during emergencies.",
+  "requestFramePermissions": []
+}
